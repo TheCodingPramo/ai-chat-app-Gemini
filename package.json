@@ -1,7 +1,7 @@
 {
-  "homepage":"https://TheCodingPramo.github.io/ai-chat-app-Gemini",
   "name": "chatbot",
   "version": "0.1.0",
+  "homepage":"https://thecodingpramo.github.io/ai-chat-app-Gemini",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.4",
