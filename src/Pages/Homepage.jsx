@@ -5,7 +5,7 @@ import { GoogleGenerativeAI } from '@google/generative-ai';
 import { API_KEY } from '../util/apiKey';
 import './Homepage.css'
 
-const KEY = API_KEY;
+const KEY = secrets.API_KEY;
 
 function MsgComponent({ type, content }) {
 
