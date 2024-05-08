@@ -2,7 +2,7 @@ import React from 'react'
 import SendIcon from '@mui/icons-material/Send';
 import { useState, useRef, useEffect } from 'react';
 import { GoogleGenerativeAI } from '@google/generative-ai';
-import { API_KEY } from '../util/apiKey';
+// import { API_KEY } from '../util/apiKey';
 import './Homepage.css'
 
 const KEY = secrets.API_KEY;
